@@ -137,6 +137,6 @@ footer {
 }
 
 .bg{
-    background: url(/assets/f.svg) no-repeat/
+    background: url(/assets/f.svg) no-repeat;
     border: 1px solid black;
 }
