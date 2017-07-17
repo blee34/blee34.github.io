@@ -39,7 +39,7 @@ body {
 }
 
 .section-colored {
-    background-color: #e1e1e1;
+    background-color: #b59d73;
     /* change this to change the background color of a colored section */
 }
 
@@ -136,8 +136,3 @@ footer {
     }
 }
 
-.bg{
-    color: black;
-    background-image: url("assets/f.svg") no-repeat;
-    border: 1px solid black;
-}
