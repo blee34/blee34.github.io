@@ -137,6 +137,7 @@ footer {
 }
 
 .bg{
+    color: black;
     background-image: url("assets/f.svg") no-repeat;
     border: 1px solid black;
 }
