@@ -13,7 +13,7 @@ body{
     background: #6e7a8e;
 }
 
-p{text-size: 20px;}
+p{font-size: 30em;}
 
 .nav.navbar-nav.navbar-right li a {
     color: black;
