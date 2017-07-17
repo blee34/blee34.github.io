@@ -11,7 +11,10 @@ body{
 
 .cc {
     background: #6e7a8e;
-    color: black !important;
 }
 
 p{text-size: 14px;}
+
+.navbar a {
+    color: black;
+}
