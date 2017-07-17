@@ -135,3 +135,7 @@ footer {
         /* increases the carousel height so it looks good on phones */
     }
 }
+
+.bg{
+    background-image: url("/bg_b2.jpg");
+}
