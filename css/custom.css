@@ -15,3 +15,7 @@ body{
 
 p{text-size: 20px;}
 
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}
+
