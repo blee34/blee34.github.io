@@ -13,9 +13,12 @@ body{
     background: #6e7a8e;
 }
 
-p{font-size: 30em;}
+p{font-size: 5em;}
 
 .nav.navbar-nav.navbar-right li a {
     color: black;
 }
 
+.nav.navbar-nav.navbar-left li a {
+    color: black;
+}
