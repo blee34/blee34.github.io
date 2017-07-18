@@ -91,6 +91,6 @@ p2{
     background: linear-gradient(#6e7a8e, 505f78); /* Standard syntax */
 }
 .section-colored{
-    padding-bottom: .5em;
+    margin-bottom: .5em;
 }
 
