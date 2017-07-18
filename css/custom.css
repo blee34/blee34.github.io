@@ -90,4 +90,7 @@ p2{
     background: -moz-linear-gradient(#6e7a8e, 505f78); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#6e7a8e, 505f78); /* Standard syntax */
 }
+.section-colored{
+    padding-bottom: .5em;
+}
 
