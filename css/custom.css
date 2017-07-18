@@ -26,3 +26,7 @@ h1{font-size: 5em;}
 .nav.navbar-nav.navbar-left li a {
     color: black;
 }
+
+.adrress-bar{ 
+    font-weight: bold;
+}
