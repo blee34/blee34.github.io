@@ -75,10 +75,9 @@ p2{
 .nav.navbar-nav.navbar-right li a {
     color: black;
 }
-
-.nav.navbar-nav.navbar-right li a: toggle {
-    color: white;
-    background: #374763;
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #FFFFFF;
+    color: #374763;
 }
 
 .navbar-brand{
