@@ -75,10 +75,7 @@ p2{
 .nav.navbar-nav.navbar-right li a {
     color: black;
 }
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-    background-color: #FFFFFF;
-    color: #374763;
-}
+ul.nav a:hover { color: #fff !important; }
 
 .navbar-brand{
     color: black;
