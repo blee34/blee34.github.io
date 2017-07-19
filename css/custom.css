@@ -19,7 +19,7 @@ h1{
     letter-spacing:1pt;
     word-spacing:0pt;
     font-size:3.2em;
-    text-align:left;
+    text-align:center;
     font-family:georgia, serif;
     line-height:2;
 }
@@ -52,6 +52,7 @@ p{
     text-align:left;
     font-family:arial, helvetica, sans-serif;
     line-height:2;
+    text-shadow: 1px 1px 1px #333;
 }
 
 a: hover{
@@ -95,10 +96,3 @@ p2{
     line-height:2;
 }
 
-.grad {
-    background: #6e7a8e; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#6e7a8e, 505f78); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#6e7a8e, 505f78); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#6e7a8e, 505f78); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#6e7a8e, 505f78); /* Standard syntax */
-}
