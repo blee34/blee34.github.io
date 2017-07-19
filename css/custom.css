@@ -67,12 +67,16 @@ p2{
 .nav.navbar-nav.navbar-right li a {
     color: black;
 }
+
+.nav.navbar-nav.navbar-right li a active {
+    color: white;
+}
 .navbar-brand{
     color: black;
     font-size: 2.7em; 
 }
 
-.adrress-bar{
+.address-bar{
     font-weight:normal;
     color:#000000;
     letter-spacing:1pt;
@@ -90,4 +94,5 @@ p2{
     background: -moz-linear-gradient(#6e7a8e, 505f78); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#6e7a8e, 505f78); /* Standard syntax */
 }
+
 
