@@ -96,3 +96,6 @@ p2{
     line-height:2;
 }
 
+.section{
+	border-radius: 10em;
+}
