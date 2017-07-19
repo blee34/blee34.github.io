@@ -53,6 +53,12 @@ p{
     font-family:arial, helvetica, sans-serif;
     line-height:2;
 }
+
+a: hover{
+    color: white;
+    background: #374763;
+}
+
 p2{
     font-weight:normal;
     color:#000000;
@@ -84,7 +90,7 @@ p2{
     letter-spacing:1pt;
     word-spacing:2pt;
     font-size:2.2em;
-    text-align:justify;
+    text-align:center;
     font-family:arial black, sans-serif;
     line-height:2;
 }
