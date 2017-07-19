@@ -66,10 +66,12 @@ p2{
 
 .nav.navbar-nav.navbar-right li a {
     color: black;
+    background: #374763;
 }
 
 .nav.navbar-nav.navbar-right li a active {
     color: white;
+
 }
 .navbar-brand{
     color: black;
