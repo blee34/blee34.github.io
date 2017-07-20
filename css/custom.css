@@ -14,20 +14,21 @@ body{
 }
 
 .navbar-btn-becks{
-    text-shadow:1px 2px 1px rgba(0,0,0,1);
+    text-shadow:0.0625em 0.125em 0.0625em rgba(0,0,0,1);
     font-weight:normal;
     font-style:italic;
     color:#000000;
-    border: 5px outset #222222;
+    border: 0.3125em outset #222222;
     letter-spacing:1pt;
     word-spacing:2pt;
-    font-size:5em;
+    font-size:2em;
     text-align:left;
     font-family:times new roman, times,   serif;
     line-height:1;
-    margin:55px;
-    padding:17px;
-    width:189px;
+    margin:2.5em;
+    padding:1em;
+    width:30em
+;
 
 }
 
