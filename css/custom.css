@@ -18,15 +18,14 @@ body{
     font-weight:normal;
     font-style:italic;
     color:#000000;
-    border: 0.3125em outset #222222;
+    border: 0.1em outset #222222;
     letter-spacing:1pt;
-    word-spacing:2pt;
     font-size:2em;
     text-align:center;
     font-family:times new roman, times,   serif;
     line-height:1;
-    margin:2.5em;
-    padding:1em;
+    margin:.5em;
+    padding:.4em;
     width:30em
 ;
 
