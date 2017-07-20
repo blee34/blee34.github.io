@@ -41,7 +41,7 @@ body {
 .section-colored {
     background-color: #957b4e;
     /* change this to change the background color of a colored section */
-    margin-bottom: .5em;
+    margin-bottom: 5em;
 }
 
 .sidebar {
