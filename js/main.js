@@ -1,9 +1,4 @@
 /**
- * AngularJS Tutorial 1
- * @author Nick Kaye <nick.c.kaye@gmail.com>
- */
-
-/**
  * Main AngularJS Web Application
  */
 var app = angular.module('becks', [
@@ -25,13 +20,6 @@ app.config(['$routeProvider', function ($routeProvider) {
     // else 404
     .otherwise("/404", {templateUrl: "partials/404.html", controller: "PageCtrl"});
 }]);
-
-/**
- * Controls the Blog
- */
-app.controller('BlogCtrl', function (/* $scope, $location, $http */) {
-  console.log("Blog Controller reporting for duty.");
-});
 
 /**
  * Controls all other Pages
