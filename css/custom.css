@@ -11,6 +11,11 @@ body{
 .cc {
     background: #6e7a8e;
 }
+.bb{
+    background: #6e7a8e;
+    color: black;
+    border: 1px solid black;
+}
 
 .navbar-btn-becks{
     text-shadow:0.05em 0.1em 0.1em rgba(0,0,0,1);
